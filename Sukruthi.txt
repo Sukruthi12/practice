@@ -1,6 +1,6 @@
 Hiii Vickyyy
-<<<<<<< HEAD
+
 hiii
-=======
-hii pichi
->>>>>>> ff2bdfbcd3ad2001c782c83902b960d4111081d8
+
+hii mental pichi
+
